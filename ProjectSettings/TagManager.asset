@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - PlayerTag
+  - ProjectileTag
+  - PickupTag
   layers:
   - Default
   - TransparentFX
@@ -14,9 +16,9 @@ TagManager:
   - UI
   - Player
   - Effects
-  - 
-  - 
-  - 
+  - Projectiles
+  - Enemies
+  - Pickups
   - 
   - 
   - 
@@ -42,12 +44,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
+  - name: background
     uniqueID: 3170834383
     locked: 0
-  - name: Effects
+  - name: pickup
+    uniqueID: 2319211839
+    locked: 0
+  - name: effects
     uniqueID: 4079101493
     locked: 0
-  - name: Player
+  - name: player
     uniqueID: 1299885259
+    locked: 0
+  - name: enemy
+    uniqueID: 1464793731
+    locked: 0
+  - name: projectile
+    uniqueID: 2021097071
     locked: 0

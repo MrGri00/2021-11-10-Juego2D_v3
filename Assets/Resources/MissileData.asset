@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5415a02d7963811408616a30abd872df, type: 3}
   m_Name: MissileData
   m_EditorClassIdentifier: 
-  projectile: {fileID: 0}
-  fireForce: 0
+  projectile: {fileID: 5724173720178918781, guid: 2d91d8f58cb302d41ab2ab9d33a97b27, type: 3}
+  fireForce: 100
