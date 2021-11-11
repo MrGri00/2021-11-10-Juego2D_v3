@@ -42,6 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3170834383
+    locked: 0
   - name: Effects
     uniqueID: 4079101493
     locked: 0

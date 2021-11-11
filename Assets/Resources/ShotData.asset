@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5415a02d7963811408616a30abd872df, type: 3}
   m_Name: ShotData
   m_EditorClassIdentifier: 
-  projectile: {fileID: 0}
-  fireForce: 0
+  projectile: {fileID: 5126617515972754199, guid: 03c815cfc715cc643ba629293c7ec47f, type: 3}
+  fireForce: 300
