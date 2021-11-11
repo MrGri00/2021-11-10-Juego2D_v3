@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: ShotData
   m_EditorClassIdentifier: 
   projectile: {fileID: 5126617515972754199, guid: 03c815cfc715cc643ba629293c7ec47f, type: 3}
-  fireForce: 300
+  fireForce: 500

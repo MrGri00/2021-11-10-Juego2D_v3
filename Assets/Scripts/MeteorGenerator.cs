@@ -50,7 +50,7 @@ public class MeteorGenerator : MonoBehaviour
                 if (hMeteor != null)
                 {
                     hMeteor.transform.position = positions[randPoint].position;
-                    meteor.GetComponent<HealthManager>().ResetHealth();
+                    hMeteor.GetComponent<HealthManager>().ResetHealth();
                     hMeteor.SetActive(true);
                 }
                 break;
