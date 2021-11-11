@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: MissileData
   m_EditorClassIdentifier: 
   projectile: {fileID: 5724173720178918781, guid: 2d91d8f58cb302d41ab2ab9d33a97b27, type: 3}
-  fireForce: 100
+  fireForce: 200
